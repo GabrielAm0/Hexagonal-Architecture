@@ -41,7 +41,7 @@ O padrão de Arquitetura Hexagonal promove a separação de responsabilidades e 
 2. Clone o repositório:
 
 ```bash
-git clone https://github.com/GabrielAm0/
+git clone https://github.com/GabrielAm0/Hexagonal-Architecture.git
 
 ```
 

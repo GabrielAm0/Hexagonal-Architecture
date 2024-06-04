@@ -50,7 +50,7 @@ rest of the application.
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/GabrielAm0/
+git clone https://github.com/GabrielAm0/Hexagonal-Architecture.git
 ```
 
 3. Install PostgreSql in your machine
